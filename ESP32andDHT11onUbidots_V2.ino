@@ -15,7 +15,7 @@
  ****************************************/
 
 #define DHTpin 4    //ขา DHT11
-#define TOKEN  "A1E-QICFYVfwAheWmTBjHF4WDnQHFA5e6w"  // Put here your Ubidots TOKEN
+#define TOKEN  "A1E-dstwbgPaMMxcc53WdWtu1g7aOZfwng"  // Put here your Ubidots TOKEN
 #define WIFISSID "iotworkshop" // Put here your Wi-Fi SSID
 #define PASSWORD "123414321*" // Put here your Wi-Fi password
 
